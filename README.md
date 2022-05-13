@@ -1,4 +1,4 @@
-# Vegan-IceCream-Website
+# Vegan IceCream Website
 
 an Ecommerce responsive website to sell a vegan iceCream products
 
